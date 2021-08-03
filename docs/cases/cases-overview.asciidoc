@@ -1,6 +1,5 @@
-[[cases-overview]]
 [role="xpack"]
-
+[[cases-overview]]
 = Cases
 
 Cases are used to open and track security issues directly in the {es-sec-app}.

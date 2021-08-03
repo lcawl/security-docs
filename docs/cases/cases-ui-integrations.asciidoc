@@ -1,6 +1,6 @@
 [[cases-ui-integrations]]
 [role="xpack"]
-== Configure external connections
+= Configure external connections
 
 You can push {es-sec} cases to these third-party systems:
 
@@ -21,7 +21,7 @@ https://www.elastic.co/subscriptions[appropriate license] and your role needs *A
 
 [[create-new-connector]]
 [float]
-=== Create a new connector
+== Create a new connector
 
 . Go to *Cases* -> *Edit external connection*.
 +
@@ -108,13 +108,13 @@ in a Security case, the field that is mapped to the {swimlane} `Comment` field i
 
 
 [float]
-=== Close sent cases automatically
+== Close sent cases automatically
 
 To close cases when they are sent to an external system, select
 *Automatically close Security cases when pushing new incident to external system*.
 
 [float]
-=== Change and update connectors
+== Change and update connectors
 
 You can create additional connectors, update existing connectors, and change
 the connector used to send cases to external systems.
@@ -132,7 +132,7 @@ TIP: You can also configure which connector is used for each case individually
 
 [float]
 [[connect-security-to-jira]]
-=== Tutorial: Connect Elastic Security to Jira
+== Tutorial: Connect Elastic Security to Jira
 
 To see how to connect Elastic Security to Jira, watch the following tutorial.
 

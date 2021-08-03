@@ -35,6 +35,8 @@ include::detections/detections-index.asciidoc[]
 
 include::events/index.asciidoc[]
 
+include::cases/cases-index.asciidoc[]
+
 include::management/manage-intro.asciidoc[]
 
 include::siem-apis.asciidoc[]
