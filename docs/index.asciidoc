@@ -27,9 +27,15 @@ include::whats-new.asciidoc[]
 
 include::getting-started/index.asciidoc[]
 
+include::ui/security-ui.asciidoc[]
+
+include::explore/explore-intro.asciidoc[]
+
 include::detections/detections-index.asciidoc[]
 
 include::events/index.asciidoc[]
+
+include::management/manage-intro.asciidoc[]
 
 include::siem-apis.asciidoc[]
 
